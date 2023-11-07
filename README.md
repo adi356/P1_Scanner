@@ -10,6 +10,7 @@ Chose to do option 2 and created a FSA table  (found in scanner.h)
     3b. note if you just run ./P1 the program will ask for keyboard input and you must click enter to give the scanner the EOF_tk
 
 Repositories referenced:
+
 https://github.com/tlunmp/CS4280-P1/tree/master
 
 https://github.com/TGrossman90/Compiler-Project-CS4280/tree/master
